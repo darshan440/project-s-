@@ -9,9 +9,13 @@ A clean and responsive single-page CV built with HMTL,css & JS.
 
 ## Folder structure
 single-page-cv/
+ |
  │── index.html # Main CV page
+ |
  │── style.css # Styling file  
+ |
  │── assets/ # Folder for images
+ |
  |__ README.md # Documentation
 
 
