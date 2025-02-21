@@ -19,7 +19,7 @@ single-page-cv/
  |__ README.md # Documentation
 
  ### Project URL 
- https://github.com/darshan440/single-page-cv
+[ https://github.com/darshan440/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 
 
