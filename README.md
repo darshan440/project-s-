@@ -18,6 +18,9 @@ single-page-cv/
  |
  |__ README.md # Documentation
 
+ ### Project URL 
+ https://github.com/darshan440/single-page-cv
+
 
 
 
